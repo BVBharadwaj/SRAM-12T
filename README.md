@@ -6,15 +6,15 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 
 ![custom_compiler](https://user-images.githubusercontent.com/100586116/156113543-8e429db2-809c-4439-8a1c-53f9264caeca.png)
 ## Reference Circuit Details 
-Reference Circuit 
+### Reference Circuit 
 ![circuit](https://user-images.githubusercontent.com/100586116/156113502-fd0c8583-4b9e-43d4-959c-5b694fa1b4df.PNG)
-Reference Waveforms
+### Reference Waveforms
 ![refwaveforms](https://user-images.githubusercontent.com/100586116/156113559-19ffc695-f0c5-44e0-9882-3f918ed49a2b.PNG)
 ## Simulated Circuit Details 
-Circuit Schematic 
-Ciruit Symbol 
-Circuit testbench Schematic 
-Waveforms 
+### Circuit Schematic 
+### Ciruit Symbol 
+### Circuit testbench Schematic 
+### Waveforms 
 ## Acknowledgement 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 2. Chinmay panda, IIT Hyderabad
