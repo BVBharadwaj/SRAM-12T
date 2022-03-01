@@ -28,7 +28,7 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 ### Circuit testbench Schematic 
 ![3](https://user-images.githubusercontent.com/100586116/156121666-da6c7fc7-7381-4031-a31c-6c5589a76c32.PNG)
 ### Waveforms 
-
+![5](https://user-images.githubusercontent.com/100586116/156127927-f1914f6e-2afa-49fc-bb7c-a1ff5de14072.PNG)
 ## Acknowledgement 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 2. Chinmay panda, IIT Hyderabad
