@@ -5,6 +5,7 @@ Now-a-days among different memory elements SRAM(Static Random Access Memory) bec
 The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. It delivers industry-leading productivity, performance, and ease-of-use while remaining easy to adopt for users of legacy tools.
 
 ![custom_compiler](https://user-images.githubusercontent.com/100586116/156113543-8e429db2-809c-4439-8a1c-53f9264caeca.png)
+## Operation 
 ## Reference Circuit Details 
 ### Reference Circuit 
 ![circuit](https://user-images.githubusercontent.com/100586116/156113502-fd0c8583-4b9e-43d4-959c-5b694fa1b4df.PNG)
