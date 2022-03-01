@@ -1,6 +1,6 @@
 # Quadruple Cross-Coupled Latch-Based 12T SRAM
 ## Table of Contents 
-1. [Abstract](#Introduction) 
+1. [Abstract](#Abstract) 
 2. [Synopsis Custom Compiler](#Synopsis-Custom-Compiler)
 3. [Operation](#Operation)
 4. [Reference Circuit Details](#Reference-Circuit-Details)
@@ -45,4 +45,5 @@ IEEE Transactions on Circuits and Systems–I: REGULAR PAPERS,
 VOL. 66, NO. 3, MARCH 2019
 ## Author 
 B.Venkata Bharadwaj, 4th Year B.TECH, ECE, Indian Institute of Information Technology Design and Manufacturing(IIITDM) Kancheepuram
+
 Email: venkatabharadwaj125@gmail.com
