@@ -7,4 +7,19 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 ![custom_compiler](https://user-images.githubusercontent.com/100586116/156113543-8e429db2-809c-4439-8a1c-53f9264caeca.png)
 ## Reference Circuit Details 
 Reference Circuit 
-Reference waveform
+![circuit](https://user-images.githubusercontent.com/100586116/156113502-fd0c8583-4b9e-43d4-959c-5b694fa1b4df.PNG)
+Reference Waveforms
+![refwaveforms](https://user-images.githubusercontent.com/100586116/156113559-19ffc695-f0c5-44e0-9882-3f918ed49a2b.PNG)
+## Simulated Circuit Details 
+Circuit Schematic 
+Ciruit Symbol 
+Circuit testbench Schematic 
+Waveforms 
+## Acknowledgement 
+1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+2. Chinmay panda, IIT Hyderabad
+3. Synopsys Team 
+## References 
+[1] Jianwei Jiang , Yiran Xu, Wenyi Zhu, Jun Xiao, and Shichang Zou "Quadruple Cross-Coupled Latch-Based 10T and 12T SRAM Bit-Cell Designs for Highly Reliable Terrestrial Applications"
+IEEE Transactions on Circuits and Systems–I: REGULAR PAPERS,
+VOL. 66, NO. 3, MARCH 2019
