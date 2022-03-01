@@ -1,4 +1,6 @@
 # Quadruple Cross-Coupled Latch-Based 12T SRAM
+# Table of Contents 
+1.
 ## Abstract 
 Now-a-days among different memory elements SRAM(Static Random Access Memory) became very popular because of their high speed operations and low power consumption.The most common SRAM cell used in todays applications are 6T SRAM.The read operation in 6T SRAM is slow because of the time taken by the access transistors to access the memory part(latch) of the SRAM, which further results in increase of leakage power.So,In this paper we will discuss about the quadruple cross-coupled storage cells (QUCCE) 12T SRAM which has better soft error tolerance, time performance,read static noise margins,hold static noise margins solves the limitations of conventional 6T SRAM.
 ## Synopsis Custom Compiler 
@@ -29,5 +31,5 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 IEEE Transactions on Circuits and Systems–I: REGULAR PAPERS,
 VOL. 66, NO. 3, MARCH 2019
 ## Author 
-B.Venkata Bharadwaj, 4th Year B.TECH, ECE, Indian Institute of Information Technology,Design and Manufacturing,(IIITDM) Kancheepuram
+B.Venkata Bharadwaj, 4th Year B.TECH, ECE, Indian Institute of Information Technology Design and Manufacturing(IIITDM) Kancheepuram
 Email: venkatabharadwaj125@gmail.com
