@@ -13,6 +13,7 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 ![refwaveforms](https://user-images.githubusercontent.com/100586116/156113559-19ffc695-f0c5-44e0-9882-3f918ed49a2b.PNG)
 ## Simulated Circuit Details 
 ### Circuit Schematic 
+![1](https://user-images.githubusercontent.com/100586116/156121649-32b9f78e-4bad-4537-8d81-18224b1cbefd.PNG)
 ### Ciruit Symbol 
 ### Circuit testbench Schematic 
 ### Waveforms 
