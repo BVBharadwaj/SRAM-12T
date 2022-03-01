@@ -24,3 +24,6 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 [1] Jianwei Jiang , Yiran Xu, Wenyi Zhu, Jun Xiao, and Shichang Zou "Quadruple Cross-Coupled Latch-Based 10T and 12T SRAM Bit-Cell Designs for Highly Reliable Terrestrial Applications"
 IEEE Transactions on Circuits and Systems–I: REGULAR PAPERS,
 VOL. 66, NO. 3, MARCH 2019
+## Author 
+B.Venkata Bharadwaj, 4th Year B.TECH, ECE, Indian Institute of Information Technology,Design and Manufacturing,(IIITDM) Kancheepuram
+Email: venkatabharadwaj125@gmail.com
