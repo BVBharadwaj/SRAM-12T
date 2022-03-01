@@ -15,6 +15,12 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 
 ![custom_compiler](https://user-images.githubusercontent.com/100586116/156113543-8e429db2-809c-4439-8a1c-53f9264caeca.png)
 ## Operation 
+The QUCCE 12T memory cell has four storage nodes A, Q, QN and B. Node Q and B are connected to BL through access transistor N5 and N7 respectively while node QN and A are connected to BLB through access transistor N6 and N8 respectively. Access transistors N5, N6, N7 and N8 are controlled by word line WL and will be activated when WL is set to be high. As is presented in Fig. 1, the stored ‘0’ value is assumed and the four storage nodes A, Q, QN and B are set to be ‘1’, ‘0’, ‘1’ and ‘0’ respectively. There are three modes of operation of 12T SRAM:
+1. In hold mode WL=‘0’ to turn off the four pass gates N5, N6, N7 and N8. Transistors P1, N2, P3 and N4 are turned on while transistors N1, P2, N3 and P4 are turned off. Thus storage nodes A, Q, QN and B keep their original value without being changed.
+2. For read operation, two bit-lines BL and BLB will be pre-charged to supply voltage and WL=VDD to turn on pass gates N5, N6, N7 and N8. As for the ‘read 0’ operation in
+Fig., BLB will keep its original state Meanwhile, BL will be discharged through two paths, one from transistor N5 and N2 to the ground, and the other from transistor N7 and N4 to the ground. The voltage difference obtained from BL and BLB will be amplified and afterwards the data stored in the memory cell will be output. Due to the two discharging paths,the QUCCE 12T cell acquires a high speed read operation.
+3. In order to write ‘1’ into the QUCCE 12T cell, as Fig. portrays, WL=BL=‘1’ while BLB=‘0’. The access transistors N6 and N8 activated, BLB pulls down the potential at nodes
+QN and A to be ‘0’ and thus transistors N2 and N4 are turned off while transistors P2 and P4 are turned on, resulting in nodes Q and B being charged to be ‘1’. On the other side, the access transistors N5 and N7 enabled, BL pulls up the potential at node Q and B through transistor N5 and N7 towards (VDDVTHn) respectively. The pull-up strength of high state bit-line is weak because of an NMOS threshold voltage (VTHn) drop.Meanwhile, the cross-coupled latch structures will further amplify the voltage difference between the related node pairs in the latch, accelerating the buildup of voltage difference.
 ## Reference Circuit Details 
 ### Reference Circuit 
 ![circuit](https://user-images.githubusercontent.com/100586116/156113502-fd0c8583-4b9e-43d4-959c-5b694fa1b4df.PNG)
