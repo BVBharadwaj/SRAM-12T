@@ -35,8 +35,9 @@ QN and A to be ‘0’ and thus transistors N2 and N4 are turned off while trans
 ![3](https://user-images.githubusercontent.com/100586116/156121666-da6c7fc7-7381-4031-a31c-6c5589a76c32.PNG)
 ### Waveforms 
 ![5](https://user-images.githubusercontent.com/100586116/156127927-f1914f6e-2afa-49fc-bb7c-a1ff5de14072.PNG)
-When BL=1 and BLB=0 the A=0, B=1, Q=1, QN=0
-BL=0 and BLB=1 the A=1, B=0, Q=0, QN=1
+
+When BL=1 and BLB=0 then A=0, B=1, Q=1, QN=0
+BL=0 and BLB=1 then A=1, B=0, Q=0, QN=1
 ## Acknowledgement 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 2. Chinmay panda, IIT Hyderabad
