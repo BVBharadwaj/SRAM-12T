@@ -1,13 +1,13 @@
 # Quadruple Cross-Coupled Latch-Based 12T SRAM
 ## Table of Contents 
-1.[Abstract](#Introduction) 
-2.[Synopsis Custom Compiler](#Synopsis Custom Compiler)
-3.[Operation](#Operation)
-4.[Reference Circuit Details](#Reference Circuit Details)
-5.[Simulated Circuit Details](#Simulated Circuit Details)
-6.[Acknowledgement](#Acknowledgement)
-7.[References](#References)
-8.[Author](#Author)
+1. [Abstract](#Introduction) 
+2. [Synopsis Custom Compiler](#Synopsis-Custom-Compiler)
+3. [Operation](#Operation)
+4. [Reference Circuit Details](#Reference-Circuit-Details)
+5. [Simulated Circuit Details](#Simulated-Circuit-Details)
+6. [Acknowledgement](#Acknowledgement)
+7. [References](#References)
+8. [Author](#Author)
 ## Abstract 
 Now-a-days among different memory elements SRAM(Static Random Access Memory) became very popular because of their high speed operations and low power consumption.The most common SRAM cell used in todays applications are 6T SRAM.The read operation in 6T SRAM is slow because of the time taken by the access transistors to access the memory part(latch) of the SRAM, which further results in increase of leakage power.So,In this paper we will discuss about the quadruple cross-coupled storage cells (QUCCE) 12T SRAM which has better soft error tolerance, time performance,read static noise margins,hold static noise margins solves the limitations of conventional 6T SRAM.
 ## Synopsis Custom Compiler 
